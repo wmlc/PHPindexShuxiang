@@ -7,7 +7,7 @@
 
 ### 界面欣赏
 -----
-![PNG](imgs/material/GitImg.gif)
+![GIf](img/imgs/material/GitImg.gif)
 
 
 **链接访问**
@@ -22,7 +22,7 @@
 ### 打赏
 -----
 - **支持项目继续完善下去，你也可以贡献一份力量！💰打赏，更会有更新的动力
-![PNG](imgs/material/dashang.png)
+![PNG](img/imgs/material/dashang.png)
 
 
 ### 更新日志
